@@ -4,6 +4,7 @@ Generative Adversarial Neural Network:
   GANs are mainly used for synthetic data generation like images and with an advanced model we could perform super-resolution, smoke removal and etc., There are also conditional GANs which would also us to have control over what data to be generated. 
   
 This code is a basic GAN model which is built over the fashion mnist dataset which is loaded from TensorFlow datasets. The following methods have been enhanced to build this GAN:
+
                                 1.	Set up the environment
                                 2.	Build Data Pipeline
                                 3.	Create a Generator and Discriminator
